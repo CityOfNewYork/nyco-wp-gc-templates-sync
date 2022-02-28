@@ -98,7 +98,7 @@ class GcTemplatesSync {
    * @var String
    */
   const IMPORT_MESSAGE = 'There are some local JSON template mappings that are' .
-    'not currently in this list. You may import them by clicking this button.';
+    ' not currently in this list. You may import them by clicking this button.';
 
   /**
    * Arial label string for the import button information dialog.
